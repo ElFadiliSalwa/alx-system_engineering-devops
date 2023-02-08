@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -la -v)"
+echo "$(ls -lap -m)"
