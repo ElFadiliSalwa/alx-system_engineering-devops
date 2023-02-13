@@ -1,2 +1,2 @@
 #!/bin/bash
-sh: 1: q: not found
+find -type f d -empty
